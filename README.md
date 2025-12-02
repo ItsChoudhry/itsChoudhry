@@ -4,7 +4,7 @@ I'm a software engineer in London. I've worked in different industries, startups
 
 
 ## 📫 You can reach me at  
-- 📧 Email: [choudhryamjad@gmail.com](mailto:choudhryzamjad@gmail.com)  
+- 📧 Email: [choudhryzamjad@gmail.com](mailto:choudhryzamjad@gmail.com)  
 - 🐦 X/Twitter: [@ItsChoudhry](https://x.com/ItsChoudhry)
 
 #### I'm open to chat about tech, islam, bjj, career, or prospects. 
