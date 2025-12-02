@@ -7,7 +7,7 @@ I'm a software engineer in London. I've worked in different industries, startups
 - 📧 Email: [choudhryzamjad@gmail.com](mailto:choudhryzamjad@gmail.com)  
 - 🐦 X/Twitter: [@ItsChoudhry](https://x.com/ItsChoudhry)
 
-#### I'm open to chat about tech, islam, bjj, career, or prospects. 
+#### I'm open to chat about tech, islam, bjj, career, or even ideas. 
 
 <!-- GitHub Stats (optional – add shields.io badges for dynamism)
 [![Choudhry's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ItsChoudhry&show_icons=true&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)  
