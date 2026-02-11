@@ -1,6 +1,6 @@
 ### itsChoudhry
 
-I'm a software engineer in London. I've worked in different industries, startups, but currently at a big fintech working on low-latency & high performance *yay buzzwords* trading systems. I'm muslim, a family man, and do BJJ on the side.
+I'm a software engineer in London, currently working at a big fintech company working on high performance systems.
 
 
 ## 📫 You can reach me at  
